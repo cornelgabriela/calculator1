@@ -1,0 +1,103 @@
+body {
+  background-color: #fbd46d;
+  display: block;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 400%;
+
+}
+.first {
+  background-color: #36a3dc;
+  display: block;
+  position: relative;
+  padding-top: 50px;
+  text-align: center;
+}
+span {
+  text-decoration: underline;
+}
+.middle {
+background-color: #fbd46d;
+display: block;
+text-align: center;
+}
+
+.welcome {
+  width: 50%;
+  margin:  50px auto 70px auto;
+  line-height: 1.5;
+
+}
+
+.bottom {
+background-color: #dddddd;
+display: block;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 25px;
+}
+
+.cloud1 {
+  background-color: #36a3dc;
+  padding: 5px;
+  width: 10%;
+  height: 14%;
+  position: relative;
+  left: 500px;
+  top: 50px;
+}
+
+.cloud2 {
+  background-color: #36a3dc;
+  padding: 5px;
+  width: 10%;
+  height: 15%;
+  position: absolute;
+  top: 300px;
+  right: 1300px;
+}
+
+.calc {
+  width: 25%;
+  height: 25%;
+  float: left;
+  position: relative;
+  margin-top: -50px;
+  margin-left: 20px;
+}
+
+.scope {
+margin-left: 300px;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.scope_title {
+margin-left: 400px;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.btn {
+  background-color: #36a3dc;
+  font-family: 'Merriweather', serif;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 12px 12px;
+  cursor: pointer;
+}
+
+.footer {
+  padding: 50px 0 20px 0;
+
+}
